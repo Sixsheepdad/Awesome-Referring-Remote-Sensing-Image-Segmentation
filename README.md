@@ -16,9 +16,9 @@ A curated list of papers and datasets for **Referring Remote Sensing Image Segme
 
 | Paper | Source | Code |
 | :--- | :---: | :---: |
-| [Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2312.12470) | ![CVPR](https://img.shields.io/badge/CVPR-2024-blue) | [GitHub](https://github.com/Lsan2401/RMSIN) |
-| [RRSIS: Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2306.08625) | ![TGRS](https://img.shields.io/badge/TGRS-2024-green) | [GitHub](https://github.com/zhu-xlab/rrsis) |
 | [Referring Image Segmentation for Remote Sensing Data](https://ieeexplore.ieee.org/document/10642726) | ![IGARSS](https://img.shields.io/badge/IGARSS-2024-orange) | - |
+| [RRSIS: Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2306.08625) | ![TGRS](https://img.shields.io/badge/TGRS-2024-green) | [GitHub](https://github.com/zhu-xlab/rrsis) |
+| [Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2312.12470) | ![CVPR](https://img.shields.io/badge/CVPR-2024-blue) | [GitHub](https://github.com/Lsan2401/RMSIN) |
 | [Exploring Fine-Grained Image-Text Alignment for Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2409.13637) | ![TGRS](https://img.shields.io/badge/TGRS-2025-green) | [GitHub](https://github.com/Shaosifan/FIANet) |
 | [RSRefSeg: Referring Remote Sensing Image Segmentation with Foundation Models](https://arxiv.org/abs/2501.06809) | ![arXiv](https://img.shields.io/badge/arXiv-2025-red) | [GitHub](https://github.com/KyanChen/RSRefSeg) |
 | [RSRefSeg 2: Decoupling Referring Remote Sensing Image Segmentation With Foundation Models](https://arxiv.org/abs/2507.06231) | ![TGRS](https://img.shields.io/badge/TGRS-2025-green) | [GitHub](https://github.com/KyanChen/RSRefSeg2) |
