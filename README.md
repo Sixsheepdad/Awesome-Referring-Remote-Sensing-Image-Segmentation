@@ -21,12 +21,12 @@ A curated list of papers and datasets for **Referring Remote Sensing Image Segme
 | [Referring Image Segmentation for Remote Sensing Data](https://ieeexplore.ieee.org/document/10642726) | ![IGARSS](https://img.shields.io/badge/IGARSS-2024-orange) | - |
 | [Exploring Fine-Grained Image-Text Alignment for Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2409.13637) | ![TGRS](https://img.shields.io/badge/TGRS-2025-green) | [GitHub](https://github.com/Shaosifan/FIANet) |
 | [RSRefSeg: Referring Remote Sensing Image Segmentation with Foundation Models](https://arxiv.org/abs/2501.06809) | ![arXiv](https://img.shields.io/badge/arXiv-2025-red) | [GitHub](https://github.com/KyanChen/RSRefSeg) |
-| [RSRefSeg 2: Decoupling Referring Remote Sensing Image Segmentation With Foundation Models](https://arxiv.org/abs/2507.06231) | ![arXiv](https://img.shields.io/badge/arXiv-2025-red) | [GitHub](https://github.com/KyanChen/RSRefSeg2) |
+| [RSRefSeg 2: Decoupling Referring Remote Sensing Image Segmentation With Foundation Models](https://arxiv.org/abs/2507.06231) | ![TGRS](https://img.shields.io/badge/TGRS-2025-green) | [GitHub](https://github.com/KyanChen/RSRefSeg2) |
 | [RemoteSAM: Towards Segment Anything for Earth Observation](https://arxiv.org/abs/2505.18022) | ![ACM MM](https://img.shields.io/badge/ACM%20MM-2025-yellow) | [GitHub](https://github.com/1e12Leon/RemoteSAM) |
 | [A Large-Scale Referring Remote Sensing Image Segmentation Dataset and Benchmark](https://arxiv.org/abs/2506.03583) | ![arXiv](https://img.shields.io/badge/arXiv-2025-red) | [GitHub](https://github.com/CVer-Yang/NWPU-Refer) |
 | [Generalized Referring Expression Segmentation on Aerial Photos](https://arxiv.org/abs/2512.07338) | ![arXiv](https://img.shields.io/badge/arXiv-2025-red) | [Homepage](https://luispl77.github.io/aerial-d) |
-| [RRSECS: Referring Remote Sensing Expression Comprehension and Segmentation](https://ieeexplore.ieee.org/document/11036256) | ![TGRS](https://img.shields.io/badge/TGRS-2025-green) | [GitHub](https://github.com/WayneTomas/TransCP) |
-| [CroBIM-U: Uncertainty-Driven Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2601.03490) | ![arXiv](https://img.shields.io/badge/arXiv-2026-red) | [GitHub](https://github.com/hit-sirs/crobim) |
+| [RRSECS: Referring Remote Sensing Expression Comprehension and Segmentation](https://ieeexplore.ieee.org/document/11036256) | ![GRSM](https://img.shields.io/badge/GRSM-2025-purple) | - |
+| [CroBIM-U: Uncertainty-Driven Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2601.03490) | ![TGRS](https://img.shields.io/badge/TGRS-2026-green) | - |
 | [Hierarchical Textual-Visual Guidance for Referring Remote Sensing Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0031320326005455) | ![Pattern Recognition](https://img.shields.io/badge/Pattern%20Recognition-2026-blue) | - |
 
 ---
