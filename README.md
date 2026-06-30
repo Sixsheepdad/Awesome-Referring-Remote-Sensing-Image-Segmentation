@@ -35,10 +35,10 @@ A curated list of papers and datasets for **Referring Remote Sensing Image Segme
 
 | Dataset | Paper | Year | Size | Link |
 | :--- | :--- | :---: | :---: | :---: |
-| RefSegRS | [RRSIS: Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2306.08625) | 2024 | 4,420 image-language-label triplets | [HuggingFace](https://huggingface.co/datasets/JessicaYuan/RefSegRS) |
-| RRSIS-D | [Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2312.12470) | 2024 | 17,402 image-caption-mask triplets | [Google Drive](https://drive.google.com/drive/folders/1Xqi3Am2Vgm4a5tHqiV9tfaqKNovcuK3A) |
+| RefSegRS | [RRSIS: Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2306.08625) | 2024 | 4,420 image-language-label triplets | [HuggingFace](https://huggingface.co/datasets/JessicaYuan/RefSegRS) (from [GitHub](https://github.com/zhu-xlab/rrsis)) |
+| RRSIS-D | [Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2312.12470) | 2024 | 17,402 image-caption-mask triplets | [Google Drive](https://drive.google.com/drive/folders/1Xqi3Am2Vgm4a5tHqiV9tfaqKNovcuK3A) (from [GitHub](https://github.com/Lsan2401/RMSIN)) |
 | NWPU-Refer | [A Large-Scale Referring Remote Sensing Image Segmentation Dataset and Benchmark](https://arxiv.org/abs/2506.03583) | 2025 | 15,003 images, 49,745 targets | [GitHub](https://github.com/CVer-Yang/NWPU-Refer) |
-| RemoteSAM\_270K | [RemoteSAM: Towards Segment Anything for Earth Observation](https://arxiv.org/abs/2505.18022) | 2025 | 270K image-text-mask triplets | [HuggingFace](https://huggingface.co/datasets/1e12Leon/RemoteSAM270k) |
+| RemoteSAM\_270K | [RemoteSAM: Towards Segment Anything for Earth Observation](https://arxiv.org/abs/2505.18022) | 2025 | 270K image-text-mask triplets | [HuggingFace](https://huggingface.co/datasets/1e12Leon/RemoteSAM270k) (from [GitHub](https://github.com/1e12Leon/RemoteSAM)) |
 
 ---
 
