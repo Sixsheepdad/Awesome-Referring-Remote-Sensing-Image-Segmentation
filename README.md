@@ -3,6 +3,8 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/Sixsheepdad/Awesome-Referring-Remote-Sensing-Image-Segmentation/pulls)
 
+**Referring Remote Sensing Image Segmentation (RRSIS)** is a task that aims to segment specific objects or regions in remote sensing imagery based on natural language expressions. Unlike semantic segmentation which classifies all pixels into predefined categories, RRSIS allows users to flexibly describe targets of interest using free-form language, enabling more intuitive and fine-grained image interpretation. This task is particularly challenging in remote sensing due to large image scales, complex backgrounds, small and densely distributed objects, and varying orientations.
+
 A curated list of papers and datasets for **Referring Remote Sensing Image Segmentation (RRSIS)**.
 
 ## Table of Contents
