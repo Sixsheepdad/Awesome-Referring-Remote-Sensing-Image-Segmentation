@@ -28,9 +28,14 @@ A curated list of papers and datasets for **Referring Remote Sensing Image Segme
 | [A Large-Scale Referring Remote Sensing Image Segmentation Dataset and Benchmark](https://arxiv.org/abs/2506.03583) | ![arXiv](https://img.shields.io/badge/arXiv-2025-red) | [GitHub](https://github.com/CVer-Yang/NWPU-Refer) |
 | [Generalized Referring Expression Segmentation on Aerial Photos](https://arxiv.org/abs/2512.07338) | ![arXiv](https://img.shields.io/badge/arXiv-2025-red) | [Homepage](https://luispl77.github.io/aerial-d) |
 | [RRSECS: Referring Remote Sensing Expression Comprehension and Segmentation](https://ieeexplore.ieee.org/document/11036256) | ![GRSM](https://img.shields.io/badge/GRSM-2025-purple) | - |
+| [GRRSIS: Generalized Referring Remote Sensing Image Segmentation](https://ieeexplore.ieee.org/document/11271620) | ![TGRS](https://img.shields.io/badge/TGRS-2025-green) | - |
+| [Entity-Guided Attention Twisting Network for Referring Remote Sensing Image Segmentation](https://ieeexplore.ieee.org/document/11184567) | ![TGRS](https://img.shields.io/badge/TGRS-2025-green) | - |
 | [CroBIM-U: Uncertainty-Driven Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2601.03490) | ![TGRS](https://img.shields.io/badge/TGRS-2026-green) | - |
 | [Hierarchical Textual-Visual Guidance for Referring Remote Sensing Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0031320326005455) | ![Pattern Recognition](https://img.shields.io/badge/Pattern%20Recognition-2026-blue) | - |
 | [RIS-LAD: A Benchmark and Model for Referring Image Segmentation in Low-Altitude Drone Imagery](https://doi.org/10.1609/aaai.v40i14.38181) | ![AAAI](https://img.shields.io/badge/AAAI-2026-blue) | [GitHub](https://github.com/AHideoKuzeA/RIS-LAD-A-Benchmark-and-Model-for-Referring-Low-Altitude-Drone-Image-Segmentation) |
+| [MCASEN: Boosting Referring Remote Sensing Image Segmentation With Multimodal Semantic Guided Decoding and Recursive Multiscale Fusion](https://doi.org/10.1109/TGRS.2026.3651486) | ![TGRS](https://img.shields.io/badge/TGRS-2026-green) | - |
+| [RS2-SAM2: Customized SAM2 for Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2503.07266) | ![AAAI](https://img.shields.io/badge/AAAI-2026-blue) | [GitHub](https://github.com/rongfu-dsb/RS2-SAM2) |
+| [Like Human Rethinking: Contour Transformer AutoRegression for Referring Remote Sensing Interpretation](https://doi.org/10.1109/TPAMI.2026.3654392) | ![TPAMI](https://img.shields.io/badge/TPAMI-2026-red) | [GitHub](https://github.com/IPIU-XDU/RSFM) |
 
 ---
 
@@ -42,6 +47,8 @@ A curated list of papers and datasets for **Referring Remote Sensing Image Segme
 | RRSIS-D | [Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2312.12470) | 2024 | 17,402 image-caption-mask triplets | [Google Drive](https://drive.google.com/drive/folders/1Xqi3Am2Vgm4a5tHqiV9tfaqKNovcuK3A) (from [GitHub](https://github.com/Lsan2401/RMSIN)) |
 | NWPU-Refer | [A Large-Scale Referring Remote Sensing Image Segmentation Dataset and Benchmark](https://arxiv.org/abs/2506.03583) | 2025 | 15,003 images, 49,745 targets | [GitHub](https://github.com/CVer-Yang/NWPU-Refer) |
 | RemoteSAM\_270K | [RemoteSAM: Towards Segment Anything for Earth Observation](https://arxiv.org/abs/2505.18022) | 2025 | 270K image-text-mask triplets | [HuggingFace](https://huggingface.co/datasets/1e12Leon/RemoteSAM270k) (from [GitHub](https://github.com/1e12Leon/RemoteSAM)) |
+| Aerial-D | [Generalized Referring Expression Segmentation on Aerial Photos](https://arxiv.org/abs/2512.07338) | 2025 | 37,288 images, 1,522,523 referring expressions, 259,709 annotated targets, 21 classes | [Homepage](https://luispl77.github.io/aerial-d) |
+| GRRSIS-D | [GRRSIS: Generalized Referring Remote Sensing Image Segmentation](https://ieeexplore.ieee.org/document/11271620) | 2025 | First large-scale GRRSIS benchmark; multi/single/no-target expressions | [IEEE](https://ieeexplore.ieee.org/document/11271620) |
 | RIS-LAD | [RIS-LAD: A Benchmark and Model for Referring Image Segmentation in Low-Altitude Drone Imagery](https://doi.org/10.1609/aaai.v40i14.38181) | 2026 | 13,871 image-text-mask triplets | [Google Drive](https://drive.google.com/file/d/1PmtaQH_F0AUoGWgpmDSpPu27E2XSdGd4/view) (from [GitHub](https://github.com/AHideoKuzeA/RIS-LAD-A-Benchmark-and-Model-for-Referring-Low-Altitude-Drone-Image-Segmentation)) |
 
 ---
