@@ -60,15 +60,7 @@ A curated list of papers and datasets for **Referring Remote Sensing Image Segme
 
 ## Automated Updates
 
-This list is refreshed automatically **once per week** by an AI agent. On each run it:
-
-1. Reads the current README and de-duplicates against the entries already listed.
-2. Searches for newly published RRSIS papers and datasets.
-3. Independently verifies each candidate's true venue and year (DBLP, OpenReview, CVF Open Access, journal pages, and DOIs) — search snippets alone are never trusted, since venues are frequently mislabeled.
-4. Applies the inclusion rule: a journal with Impact Factor ≥ 8 (TGRS, TIP, TPAMI, ISPRS JPRS) or a top-tier conference (CVPR, ICCV, ECCV, AAAI). Preprints without a confirmed top venue are excluded.
-5. Inserts the accepted rows in ascending year order, then commits and pushes.
-
-Human curation is still very welcome — see [Contribution](#contribution).
+This list is automatically updated by AI every Monday.
 
 ## Contribution
 
