@@ -40,6 +40,10 @@ A curated list of papers and datasets for **Referring Remote Sensing Image Segme
 | [A Multiscale Vision-Text Collaborative Dual-Encoder for Referring RS Image Segmentation](https://doi.org/10.1109/TGRS.2026.3651598) | ![TGRS](https://img.shields.io/badge/TGRS-2026-green) | [GitHub](https://github.com/ubbp/MCD-Net) |
 | [CROSS: Cascaded Distillation and Dual-Constraint Grounding for Remote Sensing Referring Segmentation](https://arxiv.org/abs/2608.03147) | ![ECCV](https://img.shields.io/badge/ECCV-2026-blue) | [GitHub](https://github.com/Clarence-CV/CROSS) |
 | [SegEarth-R2: Towards Comprehensive Language-guided Segmentation for Remote Sensing Images](https://openaccess.thecvf.com/content/CVPR2026/html/Xin_SegEarth-R2_Towards_Comprehensive_Language-guided_Segmentation_for_Remote_Sensing_Images_CVPR_2026_paper.html) | ![CVPR](https://img.shields.io/badge/CVPR-2026-blue) | [GitHub](https://github.com/earth-insights/SegEarth-R2) |
+| [A Hierarchical Vision-Language Model-Guided Feature Fusion Framework for Referring Remote Sensing Image Segmentation](https://doi.org/10.1109/TGRS.2026.3666675) | ![TGRS](https://img.shields.io/badge/TGRS-2026-green) | [GitHub](https://github.com/NWPUFranklee/VSPNet) |
+| [Intra- and Cross-Scale Feature Interaction Network for Referring Remote Sensing Image Segmentation](https://doi.org/10.1109/TGRS.2026.3704617) | ![TGRS](https://img.shields.io/badge/TGRS-2026-green) | [GitHub](https://github.com/CVer-Yang/NWPU-Refer) |
+| [S2CLNet: Structure-Constrained Semantic Contrastive Learning for Referring Remote Sensing Image Segmentation](https://doi.org/10.1109/TGRS.2026.3724005) | ![TGRS](https://img.shields.io/badge/TGRS-2026-green) | - |
+| [RECS4R: Bridging Semantics and Geometry for Referring Remote Sensing Interpretation](https://openaccess.thecvf.com/content/CVPR2026/html/Chai_RECS4R_Bridging_Semantics_and_Geometry_for_Referring_Remote_Sensing_Interpretation_CVPR_2026_paper.html) | ![CVPR](https://img.shields.io/badge/CVPR-2026-blue) | - |
 
 ---
 
