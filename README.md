@@ -46,6 +46,7 @@ A curated list of papers and datasets for **Referring Remote Sensing Image Segme
 | [Intra- and Cross-Scale Feature Interaction Network for Referring Remote Sensing Image Segmentation](https://doi.org/10.1109/TGRS.2026.3704617) | ![TGRS](https://img.shields.io/badge/TGRS-2026-green) | [GitHub](https://github.com/CVer-Yang/NWPU-Refer) |
 | [S2CLNet: Structure-Constrained Semantic Contrastive Learning for Referring Remote Sensing Image Segmentation](https://doi.org/10.1109/TGRS.2026.3724005) | ![TGRS](https://img.shields.io/badge/TGRS-2026-green) | - |
 | [RECS4R: Bridging Semantics and Geometry for Referring Remote Sensing Interpretation](https://openaccess.thecvf.com/content/CVPR2026/html/Chai_RECS4R_Bridging_Semantics_and_Geometry_for_Referring_Remote_Sensing_Interpretation_CVPR_2026_paper.html) | ![CVPR](https://img.shields.io/badge/CVPR-2026-blue) | - |
+| [Referring Remote Sensing Image Segmentation Method Based on Scene-Aware Guided Network Model](https://doi.org/10.1016/j.jag.2026.105457) | ![JAG](https://img.shields.io/badge/JAG-2026-green) | [GitHub](https://github.com/taloen920/SAGNet) |
 
 ---
 
@@ -63,6 +64,7 @@ A curated list of papers and datasets for **Referring Remote Sensing Image Segme
 | RIS-LAD | [RIS-LAD: A Benchmark and Model for Referring Image Segmentation in Low-Altitude Drone Imagery](https://doi.org/10.1609/aaai.v40i14.38181) | 2026 | 13,871 image-text-mask triplets | [Google Drive](https://drive.google.com/file/d/1PmtaQH_F0AUoGWgpmDSpPu27E2XSdGd4/view) (from [GitHub](https://github.com/AHideoKuzeA/RIS-LAD-A-Benchmark-and-Model-for-Referring-Low-Altitude-Drone-Image-Segmentation)) |
 | LaSeRS | [SegEarth-R2: Towards Comprehensive Language-guided Segmentation for Remote Sensing Images](https://openaccess.thecvf.com/content/CVPR2026/html/Xin_SegEarth-R2_Towards_Comprehensive_Language-guided_Segmentation_for_Remote_Sensing_Images_CVPR_2026_paper.html) | 2026 | 40,396 masks, 122 classes, ~30K QA triplets (comprehensive language-guided RS segmentation benchmark) | [GitHub](https://github.com/earth-insights/SegEarth-R2) |
 | GeoSeg-1M | [UniGeoSeg: Towards Unified Open-World Segmentation for Geospatial Scenes](https://openaccess.thecvf.com/content/CVPR2026/html/Ni_UniGeoSeg_Towards_Unified_Open-World_Segmentation_for_Geospatial_Scenes_CVPR_2026_paper.html) | 2026 | 590K images, 117 categories, 1.1M image-mask-instruction triplets (instruction-driven RS segmentation: referring / interactive / reasoning) | [GitHub](https://github.com/MiliLab/UniGeoSeg) |
+| LandRef | [Referring Remote Sensing Image Segmentation Method Based on Scene-Aware Guided Network Model](https://doi.org/10.1016/j.jag.2026.105457) | 2026 | 14,391 image-caption-mask triplets across diverse geographical environments (land-cover referring segmentation) | [GitHub](https://github.com/taloen920/SAGNet) |
 
 ---
 
