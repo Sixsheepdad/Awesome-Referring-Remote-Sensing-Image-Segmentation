@@ -47,6 +47,7 @@ A curated list of papers and datasets for **Referring Remote Sensing Image Segme
 | [S2CLNet: Structure-Constrained Semantic Contrastive Learning for Referring Remote Sensing Image Segmentation](https://doi.org/10.1109/TGRS.2026.3724005) | ![TGRS](https://img.shields.io/badge/TGRS-2026-green) | - |
 | [RECS4R: Bridging Semantics and Geometry for Referring Remote Sensing Interpretation](https://openaccess.thecvf.com/content/CVPR2026/html/Chai_RECS4R_Bridging_Semantics_and_Geometry_for_Referring_Remote_Sensing_Interpretation_CVPR_2026_paper.html) | ![CVPR](https://img.shields.io/badge/CVPR-2026-blue) | - |
 | [Referring Remote Sensing Image Segmentation Method Based on Scene-Aware Guided Network Model](https://doi.org/10.1016/j.jag.2026.105457) | ![JAG](https://img.shields.io/badge/JAG-2026-green) | [GitHub](https://github.com/taloen920/SAGNet) |
+| [DGL-RSIS: Decoupling global spatial context and local class semantics for training-free remote sensing image segmentation](https://doi.org/10.1016/j.jag.2026.105113) | ![JAG](https://img.shields.io/badge/JAG-2026-green) | [GitHub](https://github.com/designer1024/DGL-RSIS) |
 
 ---
 
